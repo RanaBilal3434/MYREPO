@@ -1,3 +1,3 @@
 # MYREPO
 My first reposit
-author - BilalMustafa
+author - Bilal Rana
